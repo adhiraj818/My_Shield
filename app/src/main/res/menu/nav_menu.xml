@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/dashboard"
+            android:title="Dashboard"
+            android:icon="@drawable/dashboard"
+            />
+
+        <item android:id="@+id/admin"
+            android:title="Admin"
+            android:icon="@drawable/admin"
+            android:visible="false"
+            />
+
+        <item
+            android:id="@+id/tiffin"
+            android:title="Tiffin Services"
+            android:icon="@drawable/tiffin"
+            />
+        <item android:id="@+id/meds"
+            android:title="Medicine Services"
+            android:icon="@drawable/pills"
+            />
+        <item android:id="@+id/miniGames"
+            android:title="Mini Games"
+            android:icon="@drawable/minigameicon"
+            />
+
+
+
+        <menu>
+            <group  android:checkableBehavior="single">
+
+                <item android:id="@+id/about"
+                    android:title="About 👇"
+                    />
+
+        <item android:id="@+id/Term_and_Condition"
+            android:title="Term and Condition"
+            android:visible="false"
+            />
+        <item android:id="@+id/policy"
+            android:title="Privacy and Policy"
+            android:visible="false"
+            />
+
+        <item android:id="@+id/contact"
+            android:title="Contact Us"
+            android:visible="false"
+            />
+
+
+        <item
+            android:id="@+id/actions"
+            android:title="Actions 👇"
+            android:icon="@drawable/action"/>
+
+            </group>
+        </menu>
+
+
+        <menu>
+            <group  android:checkableBehavior="single">
+
+                <item android:id="@+id/logout"
+                    android:title="Logout"
+                    android:visible="false"
+                    />
+
+                <item android:id="@+id/exit"
+                    android:title="Exit"
+                    android:visible="false"
+                    />
+
+            </group>
+        </menu>
+
+
+    </group>
+</menu>

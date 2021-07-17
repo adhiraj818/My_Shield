@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "334217904336",
+    "firebase_url": "https://covid-help-c6a66-default-rtdb.firebaseio.com",
+    "project_id": "covid-help-c6a66",
+    "storage_bucket": "covid-help-c6a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334217904336:android:12392af8639c9f97489ed5",
+        "android_client_info": {
+          "package_name": "com.adhiraj.my_shield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334217904336-rvne85j9sh36671csqn8mtlg000ffh7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adhiraj.my_shield",
+            "certificate_hash": "54e3fbc604ec51918e5d4fa41c103ccf76de80d5"
+          }
+        },
+        {
+          "client_id": "334217904336-rckjk3v92fvvadtvav9ea7lpbgjkc0ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-g7IM9lrJcFB7t0PhJ52n2Ee0MA86ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334217904336-rckjk3v92fvvadtvav9ea7lpbgjkc0ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334217904336:android:9f96a78a21d34360489ed5",
+        "android_client_info": {
+          "package_name": "com.adhiraj.myshield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334217904336-rckjk3v92fvvadtvav9ea7lpbgjkc0ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-g7IM9lrJcFB7t0PhJ52n2Ee0MA86ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334217904336-rckjk3v92fvvadtvav9ea7lpbgjkc0ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334217904336:android:3b9e4dbbe1539d1b489ed5",
+        "android_client_info": {
+          "package_name": "com.example.covidhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334217904336-rckjk3v92fvvadtvav9ea7lpbgjkc0ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-g7IM9lrJcFB7t0PhJ52n2Ee0MA86ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334217904336-rckjk3v92fvvadtvav9ea7lpbgjkc0ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
